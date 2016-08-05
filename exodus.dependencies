@@ -1,14 +1,14 @@
 [
   {
-    "repository": "usmcamgrimm/device_htc_msm8960-common",
+    "repository": "TeamExodus/device_htc_msm8960-common",
     "target_path": "device/htc/msm8960-common"
   },
   {
-    "repository": "usmcamgrimm/kernel_htc_msm8960",
+    "repository": "TeamExodus/kernel_htc_msm8960",
     "target_path": "kernel/htc/msm8960"
   },
   {
-    "repository": "usmcamgrimm/vendor_htc_m7-common",
+    "repository": "TeamExodus/vendor_htc_m7-common",
     "target_path": "vendor/htc/m7-common"
   }
 ]
